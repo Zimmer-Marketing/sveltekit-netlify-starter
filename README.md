@@ -1,6 +1,6 @@
-# Zimmer Marketing SvelteKit static blog starter for wordpress sites
+# Zimmer Marketing SvelteKit static blog starter for netlify cms sites
 
-This repo is a fresh starting point for headless wordpress sites, It has js assests to fetch posts with both graphql and rest api.
+This repo is a fresh starting point for netlify cms sites, This site has netlify cms pre installed and only needs configuration in the netlify dashboard
 
 # Pre Installed Dependencies.
 
